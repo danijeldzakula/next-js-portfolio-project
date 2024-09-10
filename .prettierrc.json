@@ -1,0 +1,21 @@
+{
+  "emmet.triggerExpansionOnTab": true,
+  "files.autoSave": "afterDelay",
+  "semi": true,
+  "editor.formatOnSave": true,
+  "bracketSpacing": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.settings.useSplitJSON": true,
+  "json.schemas": [],
+  "editor.tabSize": 1,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "css.lint.unknownAtRules": "ignore",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "git.autofetch": true,
+  "window.zoomLevel": 1,
+  "prettier.tabWidth": 1,
+  "prettier.singleQuote": false
+}
