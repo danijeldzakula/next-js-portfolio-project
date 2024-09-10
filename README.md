@@ -18,9 +18,9 @@ The cart interactions are designed to be user-friendly, accessible through a dro
 ```bash 
 # Clone repository code 
 
-$ git clone <URL-OF-REPO>
+$ git clone https://github.com/danijeldzakula/next-js-portfolio-project.git
 
-$ cd <NAME-OF-REPO>
+$ cd next-js-portfolio-project
 ```
 
 ## Requirements
@@ -31,9 +31,9 @@ $ cd <NAME-OF-REPO>
 ```bash
 # Install and use Node.js
 
-$ nvm install 20.12.0
+$ nvm install 18.18.0
 
-$ nvm use 20.12.0
+$ nvm use 18.18.0
 
 $ node --version
 ```
