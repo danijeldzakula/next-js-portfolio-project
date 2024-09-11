@@ -1,11 +1,11 @@
 import { createSlice } from "@reduxjs/toolkit";
 
 // Define the type props
-type Props = {
+export type Props = {
   value: number;
 };
 
-type SelectCountProps = {
+export type SelectCountProps = {
   counter: {
     value: number;
   };

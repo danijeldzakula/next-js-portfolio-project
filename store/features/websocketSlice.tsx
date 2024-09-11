@@ -1,6 +1,6 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
 
-type WebSocketState = {
+export type WebSocketState = {
   url: string | null;
   connection: WebSocket | null;
 };

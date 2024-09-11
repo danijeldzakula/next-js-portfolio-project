@@ -1,4 +1,4 @@
-import { AppDispatch } from "@/store/store";
+import { type AppDispatch } from "@/store/store";
 import { setWebSocketUrl, setWebSocketConnection } from "./websocketSlice";
 
 export const connectWebSocket =
